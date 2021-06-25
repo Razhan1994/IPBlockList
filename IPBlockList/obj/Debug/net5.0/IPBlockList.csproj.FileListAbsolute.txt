@@ -38,3 +38,11 @@ C:\Users\javid\source\repos\IPBlockList\IPBlockList\obj\Debug\net5.0\ref\IPBlock
 C:\Users\javid\source\repos\IPBlockList\IPBlockList\obj\Debug\net5.0\IPBlockList.pdb
 C:\Users\javid\source\repos\IPBlockList\IPBlockList\obj\Debug\net5.0\IPBlockList.genruntimeconfig.cache
 C:\Users\javid\source\repos\IPBlockList\IPBlockList\obj\Debug\net5.0\IPBlockList.csproj.CopyComplete
+C:\Users\javid\source\repos\IPBlockList\IPBlockList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\javid\source\repos\IPBlockList\IPBlockList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\javid\source\repos\IPBlockList\IPBlockList\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\javid\source\repos\IPBlockList\IPBlockList\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\javid\source\repos\IPBlockList\IPBlockList\bin\Debug\net5.0\Data.dll
+C:\Users\javid\source\repos\IPBlockList\IPBlockList\bin\Debug\net5.0\Domain.dll
+C:\Users\javid\source\repos\IPBlockList\IPBlockList\bin\Debug\net5.0\Data.pdb
+C:\Users\javid\source\repos\IPBlockList\IPBlockList\bin\Debug\net5.0\Domain.pdb
